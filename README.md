@@ -35,9 +35,9 @@ Passionate and innovative software developer holding a Master's in Computer and 
 ---
 
 ## Technical Skills:
-Programming Language: Java, Python, C, C++, C# <br>
-Web: HTML, CSS, JavaScript, ReactJS, AJAX, XML, Angular, Bootstrap, jQuery, NodeJS, JSON <br>
-Technologies: Spring Boot, REST, J2EE, Hibernate, PHP, .NET, WordPress <br>
-Databases: MySQL, SQL, MySQL RDBMS <br>
-Tools & Testing: AWS, Visual Studio Code, IntelliJ IDEA, JUnit, HTTP, POSTMAN, Git, Jira, MySQL Workbench <br>
-VCS & OS: GitHub, GitLab, Windows, Linux <br>
+Programming Language : Java, Python, C, C++, C# <br>
+Web Technologies     : JavaScript, ReactJS, HTML, CSS, Angular, NodeJS, AJAX, XML, Bootstrap, jQuery <br>
+Framework            : Spring Boot, REST APIs, Micro Services, WordPress <br>
+Databases            : MySQL, SQL, NoSQL <br>
+Tools & Testing      : AWS, Git, Jira, MySQL Workbench, Visual Studio Code, IntelliJ IDEA, JUnit, POSTMAN <br>
+VCS & OS             : GitHub, GitLab, Windows, Linux
