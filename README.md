@@ -1,7 +1,7 @@
 ## I'm Hetvi Desai
 
 <p align="left">
-<Span> Software Developer ✦ Research Assistant ✦ MSCS at UTA</Span>
+<Span> Software Engineer ✦ MSCS at UTA</Span>
 </p>
  
 ---
